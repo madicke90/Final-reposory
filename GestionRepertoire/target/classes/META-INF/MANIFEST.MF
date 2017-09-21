@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: GestionRepertoire
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sn.groupidyal
+Build-Jdk: 1.7.0_10
+Built-By: dyacouba
+Created-By: Maven Integration for Eclipse
+
